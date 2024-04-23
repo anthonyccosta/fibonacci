@@ -12,3 +12,4 @@ C:\Users\Anthony\source\repos\fibonacci\fibonacci\obj\Debug\net6.0\refint\fibona
 C:\Users\Anthony\source\repos\fibonacci\fibonacci\obj\Debug\net6.0\fibonacci.pdb
 C:\Users\Anthony\source\repos\fibonacci\fibonacci\obj\Debug\net6.0\fibonacci.genruntimeconfig.cache
 C:\Users\Anthony\source\repos\fibonacci\fibonacci\obj\Debug\net6.0\ref\fibonacci.dll
+C:\Users\Anthony\source\repos\fibonacci\fibonacci\obj\Debug\net6.0\fibonacci.sourcelink.json
